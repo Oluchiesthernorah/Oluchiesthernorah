@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oluchiesthernorah
 - 👀 I’m interested in Data Analysis Job
 - 🌱 I’m currently learning Cloud computing and Data Analysis 
-- 💞️ I’m looking to collaborate on services
+- 💞️ I’m looking to collaborate on services 
 - 📫 How to reach me oluchiesthernorah@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: One of my favorite things to do is learning. learning never ends
